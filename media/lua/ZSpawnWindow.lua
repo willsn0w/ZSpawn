@@ -81,7 +81,7 @@ function zSpawn()
 end
 
 function zSKeyListener(key)  
-	if key == 41 then
+	if key == 28 then
   		if not zWin:getIsVisible() then
   		    zWin:setVisible(true);
   		else
