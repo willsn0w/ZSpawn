@@ -12,6 +12,6 @@ COMPATIBILITY WARNING: Project Zomboid 2.9.9.17 (Steam version) and later
 
 I've only tested on Mac, but it works surely on Linux/Windows.
 
-Go to your Project Zomboid directory: <code>ProjectZomboid/Project Zomboid/Contents/Resources/Java/mods</code> and drag all files from the ZSpawn folder in the corresponding PZ folder.
+Go to your Project Zomboid directory: <code>ProjectZomboid/Project Zomboid/Contents/Resources/Java/mods</code> Unzip ZSpawn-master and drag the folder in the corresponding PZ folder.
 
 Run the game.
