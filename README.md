@@ -1,4 +1,4 @@
-ZSpawn 0.3.2
+ZSpawn 0.3.2 OUTDATED! 
 ====== 
 
 I'm Forking this version of the project from the user dylan1313. it's on <a href="http://theindiestone.com/forums/index.php/topic/1522-zspawn/" target="_blank">The Indie Stone Forums.</a>
